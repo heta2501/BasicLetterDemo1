@@ -1,0 +1,82 @@
+*{
+    margin: 5px;
+    color: gray;
+    overflow: auto;
+    
+}
+ul{
+    list-style-type: none;
+}
+header{
+    margin: 20px 0 0 200px;
+    float: left;
+}
+
+ul li{
+    
+    float: right;
+    width: 100px;
+    border-top: 1px solid darkgray;
+    border-bottom:1px solid darkgray;
+    margin: 0 0 0 0;
+    padding: 20px 10px;   
+}
+img{
+    margin-left: 200px; 
+    border: 1px solid darkgray; 
+    padding: 5px; 
+    margin-top: 40px;
+}
+#sleft {
+    margin-left: 200px;
+    margin-top: 40px;
+    
+}
+#sleft a{
+    text-decoration: none;
+    color: darkorange;
+}
+#sleft img{
+    float: left;
+    width: 70px;
+    height: 80px;
+    margin: 20px 10px 10px 0;
+    padding: 4px;
+}
+#sleft p{
+    margin-top: 20px;
+
+}
+.leftdiv 
+{ 
+float: left; 
+} 
+.middlediv 
+{ 
+float: left; 
+         
+} 
+.rightdiv 
+{ 
+float: left; 
+} 
+div{ 
+padding : 1%; 
+color: white; 
+width: 30%; 
+         
+} 
+footer{
+    border-top: 1px solid darkgray;
+    padding: 10px;
+
+}
+#footer a{
+    text-decoration: none;
+}
+.ffleft{
+    float: left;
+}
+.frgt{
+    float: right;
+}
